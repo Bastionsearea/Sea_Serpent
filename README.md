@@ -9,7 +9,7 @@ A VSCode/VSCodium-inspired GUI Desktop Client built with **PySide6** (Qt for Pyt
 <br>
 
 <p align="center">
-  <img src="app/images/main.png" alt="Sea Serpent main" width="128">
+  <img src="app/images/main.png" alt="Sea Serpent main" width="1400">
 </p>
 
 ## Overview
