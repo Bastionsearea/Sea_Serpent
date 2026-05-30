@@ -88,8 +88,8 @@ Sea Serpent is a desktop code editor that faithfully reproduces the Visual Studi
 
 ```bash
 # Clone the repository
-git clone https://github.com/Bastionsearea/sea-serpent.git
-cd sea-serpent
+git clone https://github.com/Bastionsearea/Sea_Serpent.git
+cd Sea_Serpent
 
 # Create a virtual environment (recommended)
 python -m venv venv
@@ -111,7 +111,7 @@ On launch, the window opens at 1400×900 centered on the primary screen. Use the
 ## Project Structure
 
 ```
-Sea Serpent/
+Sea_Serpent/
 ├── main.py                       # Application entry point
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
